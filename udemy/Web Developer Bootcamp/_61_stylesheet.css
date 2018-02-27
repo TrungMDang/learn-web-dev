@@ -1,0 +1,15 @@
+img {
+	width: 30%;
+	float: left;
+	margin: 1.66%;	//100% space - 90% image space = 10% of space / 6 margins = 1.66%
+}
+
+h1 {
+	text-transform: uppercase;;
+	font-family: 'Raleway', sans-serif;
+	margin-left: 1.66%;
+	font-size: 24px;
+	border-bottom: 2px solid #F1F1F1;
+	width: 30%;
+	padding-bottom: 20px;
+}
